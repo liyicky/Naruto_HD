@@ -106,10 +106,10 @@
       <file leaf-file-name="Splash.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/liyicky/narutohd/Splash.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="44" selection-start="866" selection-end="866" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="1620">
+            <state line="29" column="40" selection-start="862" selection-end="862" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="1620">
               <folding>
-                <element signature="e#977#1355#0" expanded="true" />
-                <element signature="e#1350#1351#0" expanded="true" />
+                <element signature="e#976#1354#0" expanded="true" />
+                <element signature="e#1349#1350#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -579,10 +579,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liyicky/narutohd/Splash.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="44" selection-start="866" selection-end="866" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="1620">
+        <state line="29" column="40" selection-start="862" selection-end="862" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="1620">
           <folding>
-            <element signature="e#977#1355#0" expanded="true" />
-            <element signature="e#1350#1351#0" expanded="true" />
+            <element signature="e#976#1354#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
           </folding>
         </state>
       </provider>
