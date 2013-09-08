@@ -106,8 +106,11 @@
       <file leaf-file-name="Splash.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/liyicky/narutohd/Splash.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="32" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.296875" vertical-offset="1127" max-vertical-offset="1575">
-              <folding />
+            <state line="29" column="44" selection-start="866" selection-end="866" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="1620">
+              <folding>
+                <element signature="e#977#1355#0" expanded="true" />
+                <element signature="e#1350#1351#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,6 +200,7 @@
         <option value="$PROJECT_DIR$/src/com/liyicky/narutohd/KeyBearer.java" />
         <option value="$PROJECT_DIR$/src/com/liyicky/narutohd/DonateView.java" />
         <option value="$PROJECT_DIR$/src/com/liyicky/narutohd/NAdView.java" />
+        <option value="$PROJECT_DIR$/src/com/liyicky/narutohd/Splash.java" />
       </list>
     </option>
   </component>
@@ -575,8 +579,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/liyicky/narutohd/Splash.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="32" selection-start="2667" selection-end="2667" vertical-scroll-proportion="0.296875" vertical-offset="1127" max-vertical-offset="1575">
-          <folding />
+        <state line="29" column="44" selection-start="866" selection-end="866" vertical-scroll-proportion="0.53571427" vertical-offset="0" max-vertical-offset="1620">
+          <folding>
+            <element signature="e#977#1355#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
