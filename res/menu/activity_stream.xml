@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/nDonate"
+        android:title="HELP THIS APP"
+        android:icon="@drawable/kakashi_s" />
+    <item
+        android:id="@+id/nAbout"
+        android:title="Info" 
+        android:icon="@drawable/madara_s"/>
+    <item
+        android:id="@+id/nOptions"
+        android:title="Prefs"
+        android:icon="@drawable/itachi_s"/>
+    <item
+        android:id="@+id/nQuit"
+        android:title="Quit"
+        android:icon="@drawable/izuna_s"/>
+    <item
+        android:id="@+id/nR"
+        android:title="Reload"/>
+
+</menu>
