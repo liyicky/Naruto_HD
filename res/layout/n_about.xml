@@ -117,10 +117,20 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="5dp"
                 android:gravity="center"
-                android:text="NARUTO_HD (BROADCASTER)"
+                android:text="Channeleverythingtv_z (BROADCASTER)"
                 android:textAlignment="center"
                 android:textSize="14sp"
                 android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Fariytail_hd"
+                android:textAlignment="center"
+                android:textSize="12sp" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -132,15 +142,6 @@
                 android:textAlignment="center"
                 android:textSize="12sp" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="Iphone_5_sucks"
-                android:textAlignment="center"
-                android:textSize="12sp" />
 
             <TextView
                 android:layout_width="wrap_content"
@@ -148,47 +149,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="10dp"
                 android:gravity="center"
-                android:text="Trevnastee"
-                android:textAlignment="center"
-                android:textSize="12sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="Yoma913"
-                android:textAlignment="center"
-                android:textSize="12sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="Porkyminch"
-                android:textAlignment="center"
-                android:textSize="12sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="Niegusahidden"
-                android:textAlignment="center"
-                android:textSize="12sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="Teen_gohan"
+                android:text="Dbz_hd"
                 android:textAlignment="center"
                 android:textSize="12sp" />
 
@@ -222,25 +183,6 @@
                 android:textAlignment="center"
                 android:textSize="12sp" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="Naruto"
-                android:textAlignment="center"
-                android:textSize="12sp" />
-
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_horizontal"
-                android:layout_marginTop="10dp"
-                android:gravity="center"
-                android:text="(Thank You)"
-                android:textAlignment="center"
-                android:textSize="14sp" />
         </LinearLayout>
     </ScrollView>
 
@@ -266,7 +208,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginBottom="2dp"
             android:layout_marginTop="0dp"
-            android:text="v1.1"
+            android:text="v1.3"
             android:textAlignment="center"
             android:textSize="8sp"
             android:textStyle="bold" />
@@ -312,117 +254,9 @@
                     android:layout_marginRight="10dp"
                     android:layout_marginTop="2dp"
                     android:gravity="center"
-                    android:text="Naruto: Ninja Clash in the Land of Snow"
-                    android:textAlignment="center"
-                    android:textSize="12sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center"
-                    android:text="Naruto: Legend of the Stone Gelel"
-                    android:textAlignment="center"
-                    android:textSize="12sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center"
-                    android:text="Naruto: Guardians of the Cresent Moon Kingdom"
-                    android:textAlignment="center"
-                    android:textSize="12sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center"
                     android:text="Naruto Shippuden"
                     android:textAlignment="center"
                     android:textSize="12dp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center"
-                    android:text="Naruto Shippuden: The Movie"
-                    android:textAlignment="center"
-                    android:textSize="12sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center"
-                    android:text="Naruto Shippuden: Bonds"
-                    android:textAlignment="center"
-                    android:textSize="12sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center"
-                    android:text="Naruto Shippuden: Inheritors of the Will of Fire"
-                    android:textAlignment="center"
-                    android:textSize="12sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center"
-                    android:text="Naruto Shippuden: The Lost Tower"
-                    android:textAlignment="center"
-                    android:textSize="12sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center"
-                    android:text="Naruto Shippuden: Blood Prison"
-                    android:textAlignment="center"
-                    android:textSize="12sp" />
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="10dp"
-                    android:layout_marginRight="10dp"
-                    android:layout_marginTop="2dp"
-                    android:gravity="center"
-                    android:text="Naruto Shippuden: Road to Ninja"
-                    android:textAlignment="center"
-                    android:textSize="12sp" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -440,7 +274,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="20dp"
-                    android:text="Naruto_hd"
+                    android:text="Channeleverythingtv_z"
                     android:textAlignment="center"
                     android:textSize="14sp"
                     android:textStyle="bold" />
@@ -461,7 +295,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Gengar"
+                    android:text="b_o_t"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -470,7 +304,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Putz12"
+                    android:text="bandidben"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -479,7 +313,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Strutwtf"
+                    android:text="captainjack84"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -488,7 +322,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Bellpepps"
+                    android:text="duers520"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -497,7 +331,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="7lb_brownie"
+                    android:text="fairytail_hd"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -506,7 +340,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Sayewhatjosh"
+                    android:text="gengar"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -515,7 +349,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Braindon691_km"
+                    android:text="jo5567"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -524,7 +358,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Captainjack84"
+                    android:text="kamon_kazuki"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -533,7 +367,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Stormwraith"
+                    android:text="la321"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -542,7 +376,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Liyy"
+                    android:text="liyicky"
                     android:textAlignment="center"
                     android:textSize="12dp" />
 
@@ -551,7 +385,43 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginTop="10dp"
-                    android:text="Chewtoy1945"
+                    android:text="mesifen"
+                    android:textAlignment="center"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:text="meteoryte"
+                    android:textAlignment="center"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:text="pain96"
+                    android:textAlignment="center"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:text="sandstormer0"
+                    android:textAlignment="center"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:text="shy1605"
                     android:textAlignment="center"
                     android:textSize="12dp" />
             </LinearLayout>

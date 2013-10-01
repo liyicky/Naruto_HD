@@ -11,7 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_weight="50"
-        android:orientation="vertical" >
+        android:orientation="vertical"
+        android:paddingBottom="20dp">
 
         <ImageButton
             android:id="@+id/btn_donate"
@@ -71,7 +72,20 @@
                 android:layout_marginBottom="1dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
-                android:text="This stream needs help! Naruto_HD makes no money from this stream or this app. If you enjoy this stream and this app please help us support it. Donations go a long way and help a lot. Or you can help the stream a lot by looking at a banner from our sponsors. Clicking the banner will open your browser. It really helps if you click on them. You can also help by sending me an email about bugs or things you want in the app. Thanks for watching!"
+                android:text="Donate a few coins, or perhaps watch an advertisement. Send an email with any criticisms, approvals, or requests."
+                android:textAlignment="center"
+                android:textSize="12dp" />
+
+            <TextView
+                android:id="@+id/tv_donate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="1dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:text="Send an email with any criticisms, approvals, or requests."
                 android:textAlignment="center"
                 android:textSize="12dp" />
         </LinearLayout>

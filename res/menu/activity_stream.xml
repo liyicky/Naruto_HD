@@ -3,11 +3,11 @@
 
     <item
         android:id="@+id/nDonate"
-        android:title="HELP THIS APP"
+        android:title="Bequeath"
         android:icon="@drawable/kakashi_s" />
     <item
         android:id="@+id/nAbout"
-        android:title="Info" 
+        android:title="About"
         android:icon="@drawable/madara_s"/>
     <item
         android:id="@+id/nOptions"
@@ -19,6 +19,6 @@
         android:icon="@drawable/izuna_s"/>
     <item
         android:id="@+id/nR"
-        android:title="Reload"/>
+        android:title="Refresh"/>
 
 </menu>
